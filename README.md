@@ -12,7 +12,9 @@
 </div>
 
 ---
-
+### 🎓 Education
+**BS Software Engineering**, Abasyn University, Peshawar
+CGPA: **3.83 / 4.0** · Graduating 2027
 <!-- Skills Section -->
 ## 🛠️ Skills & Technologies
 
